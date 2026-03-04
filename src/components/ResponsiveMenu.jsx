@@ -15,7 +15,7 @@ const ResponsiveMenu = ({ open, setOpen }) => {
                 </nav>
             </div>
              <div className='text-white'>
-                <h1>Made with ❤️ by Rohit</h1>
+                <h1>Made with ❤️ by Murad</h1>
              </div>
         </div>
     )
